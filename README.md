@@ -4,4 +4,4 @@
 ##김주희
 - 안녕하세요 4조 맥유저분들!
 - 사양이 어찌됬던 맥으로 끝까지 깃허브 정복해봐요!
-- we can do anything, even if it's impossible.
+- we can do anything, even if it's impossible!
