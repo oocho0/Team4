@@ -38,7 +38,7 @@ README.md 설명서
 
 ### 1) 사진
 #### 김승열
-<p align="center"><img src="사진/휴식.jpg" height="100%" width="100%"></p>
+<p align="center"><img src="사진/휴식.jpg" height="40%" width="40%"></p>
 * 공원에서 신문을 보면서 휴식을 취하며
     
 #### 김주희
