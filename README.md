@@ -38,13 +38,13 @@ README.md 설명서
 
 ### 1) 사진
 #### 김승열
-![Alt text](사진/휴식.jpg)
+![Alt text](사진/휴식.jpg){: .center}
 * 공원에서 신문을 보면서 휴식을 취하며
     
 #### 김주희
-![Alt text](사진/000009.JPG)
-![Alt text](사진/000017.JPG)
-![Alt text](사진/000021.JPG)
+![Alt text](사진/000009.JPG){: width="40%" height="40%"}{: .center}
+![Alt text](사진/000017.JPG){: width="40%" height="40%"}{: .center}
+![Alt text](사진/000021.JPG){: width="40%" height="40%"}{: .center}
 
 ### 2) 음악
 #### 김승열
